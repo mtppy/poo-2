@@ -1,5 +1,5 @@
-Les patrons de conception réutilisable
-======================================
+Les patrons de conception réutilisables
+=======================================
 
 Python est un langage à typage dynamique de ce fait beaucoup 
 de design pattern utiliser dans les autres langage ne nécessite 
